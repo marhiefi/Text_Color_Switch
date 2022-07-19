@@ -1,1 +1,1 @@
-# Text_Color_Switch
+# Asynchronously change color of text in JS. Use of a "Start" and "Stop" buttons.
