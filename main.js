@@ -1,4 +1,5 @@
-const headingsColor = document.getElementsByClassName('heading');
+const headingsColor = document.getElementsByClassName('h');
+
 let turnRed = 0;
 let eachH = 0;
 
@@ -18,3 +19,6 @@ function stopChange() {
         heading.style.color = 'black')
     eachH = 0;
 }
+
+
+
